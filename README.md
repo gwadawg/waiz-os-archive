@@ -7,14 +7,14 @@ Frozen Google Drive export for Waiz Media OS migration. **Do not edit** files he
 | Repo | Role |
 |------|------|
 | [Wm-os](https://github.com/gwadawg/Wm-os) | Canonical operating system (`docs/`), skills, team-doc publish tooling |
-| **wm-os-archive** (this repo) | Raw `.docx`, `.xlsx`, and other exports — evidence only |
+| **waiz-os-archive** (this repo) | Raw `.docx`, `.xlsx`, and other exports — evidence only |
 
 Clone both as siblings (recommended):
 
 ```text
 ~/Documents/GitHub/
 ├── Wm-os/
-└── wm-os-archive/
+└── waiz-os-archive/
 ```
 
 ## Layout
